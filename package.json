@@ -1,0 +1,9 @@
+{
+  "name": "a2apps-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static landing page for a2 apps",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/"
+  }
+}
