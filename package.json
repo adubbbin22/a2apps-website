@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "description": "Static landing page for a2 apps",
   "scripts": {
-    "build": "mkdir -p dist && cp index.html dist/"
+    "build": "mkdir -p dist && cp index.html og-image.png dist/"
   }
 }
